@@ -1,0 +1,23 @@
+body { margin:0; padding:0 }
+
+.app-header{
+width: 100%;
+display: block;
+    background-color: #2e4961; 
+height: 65px;
+
+}
+.app-header--title{
+    color: white;
+    font-size: 32px;
+padding-top: 12px;
+}
+
+.headin{
+width: auto;
+height: 60px;
+float: left;
+padding-left: 16px;
+padding-top: 4px;
+padding-right: 9px;
+}
